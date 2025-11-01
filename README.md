@@ -1,7 +1,7 @@
 # Typst Local Package Installer
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/DEIN-USERNAME/DEIN-REPO?style=for-the-badge)](https://github.com/DEIN-USERNAME/DEIN-REPO/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/DEIN-USERNAME/DEIN-REPO?style=for-the-badge)](https://github.com/DEIN-USERNAME/DEIN-REPO/blob/main/LICENSE)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/benediktclaus/typst-installer?style=for-the-badge)](https://github.com/benediktclaus/typst-installer/releases/latest)
+[![GitHub license](https://img.shields.io/github/license/benediktclaus/typst-installer?style=for-the-badge)](https://github.com/benediktclaus/typst-installer/blob/main/LICENSE)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge)
 
 A simple Windows utility to automatically download and install the latest release of a Typst package from GitHub.
@@ -11,7 +11,7 @@ A simple Windows utility to automatically download and install the latest releas
 
 The easiest way to use this tool is to download the latest `.exe` file from the **Releases** page.
 
-**[Go to Latest Release](https://github.com/DEIN-USERNAME/DEIN-REPO/releases/latest)**
+**[Go to Latest Release](https://github.com/benediktclaus/typst-installer/releases/latest)**
 
 No installation is needed. Just download and run the file.
 
